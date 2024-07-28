@@ -49,6 +49,7 @@ img {
     width: 25vw;
     max-width: 100px;
     padding-top: 2vh;
+    border-radius: 50%;
 }
 
 p {
